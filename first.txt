@@ -1,2 +1,3 @@
 First name: Johnson2
 Last name: Smith
+Nickname: Ferko

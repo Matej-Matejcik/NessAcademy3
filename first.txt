@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 First name: Johnson2
-=======
-First name: Johnson1
->>>>>>> 13a93ae10af9c6a9d186810fc1b9eb35f3e6eec3
 Last name: Smith
